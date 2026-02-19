@@ -66,7 +66,7 @@ Chaque lien mène vers une page GitHub Pages accessible publiquement.
 
 ## Alpha Wann
 
-* [Don Dada Mixtape Vol.1](https://qr-linktree.github.io/Pages/AlphaWann/dondadamixtapevol1.html)
+* [Don Dada Mixtape Vol.1](https://qr-linktree.github.io/Pages/Alpha Wann/dondadamixtapevol1.html)
 
 ## Amy Winehouse
 
