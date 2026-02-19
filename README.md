@@ -43,7 +43,7 @@ Chaque lien mène vers une page GitHub Pages accessible publiquement.
 * [Miles Davis](#miles-davis)
 * [Mobb Deep](#mobb-deep)
 * [Nas](#nas)
-* [Nepal](#nepal)
+* [Népal](#nepal)
 * [Notorious B.I.G.](#notorious-big)
 * [Pink Floyd](#pink-floyd)
 * [Queen](#queen)
@@ -217,7 +217,7 @@ Chaque lien mène vers une page GitHub Pages accessible publiquement.
 
 * [Illmatic](https://qr-linktree.github.io/Pages/Nas/illmatic.html)
 
-## Nepal
+## Népal 
 
 * [Adios Bahamas](https://qr-linktree.github.io/Pages/Nepal/adiosbahamas.html)
 
