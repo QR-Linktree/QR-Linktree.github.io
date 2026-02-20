@@ -21,7 +21,6 @@ body {
     background-attachment: fixed;
 }
 
-/* CONTENEUR CENTRAL */
 .container {
     display: flex;
     flex-direction: column;
@@ -31,7 +30,6 @@ body {
     padding: 20px;
 }
 
-/* TITRE */
 h1 {
     margin-bottom: 40px;
     font-size: 2.8rem;
@@ -54,11 +52,9 @@ h1 {
     box-shadow: 0 10px 35px rgba(0,0,0,0.25);
 
     width: 100%;
-    max-width: 560px; /* ⬅️ PLUS LARGE (avant : 360px) */
+    max-width: 560px;
 }
 
-
-/* BOUTON */
 .button {
     width: 100%;
     padding: 18px 25px;
@@ -79,7 +75,6 @@ h1 {
     transform: scale(1.05);
 }
 
-/* MOBILE */
 @media (max-width: 480px) {
     h1 {
         font-size: 1.8rem;
