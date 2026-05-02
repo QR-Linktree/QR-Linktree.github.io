@@ -85,7 +85,7 @@ Chaque lien mène vers une page GitHub Pages accessible publiquement regroupant 
 
 ## Billie Eilish
 
-* [Hit Me Hard And Soft](https://qr-linktree.github.io/Pages/BillieEilish/hitandmehardandsoft.html)
+* [Hit Me Hard And Soft](https://qr-linktree.github.io/Pages/BillieEilish/hitmehardandsoft.html)
 
 ## Bob Marley
 
