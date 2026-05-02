@@ -12,6 +12,7 @@ Chaque lien mène vers une page GitHub Pages accessible publiquement regroupant 
 * [Amy Winehouse](#amy-winehouse)
 * [Asap Rocky](#asap-rocky)
 * [Beatles](#beatles)
+* [Billie Eilish](#billie-eilish)
 * [Bob Marley](#bob-marley)
 * [C418](#c418)
 * [Childish Gambino](#childish-gambino)
@@ -81,6 +82,10 @@ Chaque lien mène vers une page GitHub Pages accessible publiquement regroupant 
 
 * [Abbey Road](https://qr-linktree.github.io/Pages/Beatles/abbeyroad.html)
 * [Let It Be](https://qr-linktree.github.io/Pages/Beatles/letitbe.html)
+
+## Billie Eilish
+
+* [Hit Me Hard And Soft](https://qr-linktree.github.io/Pages/BillieEilish/HitMeHardAndSoft.html)
 
 ## Bob Marley
 
